@@ -1,24 +1,3 @@
 # vux3
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 将vux打包成umd包，使之可以再vue-cli3版本使用，未经过测试，只是简单的复制vux-loader及更新一些依赖。---2021-03-30
