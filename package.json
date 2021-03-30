@@ -2,6 +2,7 @@
   "name": "vux3",
   "version": "0.1.0",
   "private": true,
+  "main": "dist/vux3.min.js",
   "scripts": {
     "build": "node build/build.js"
   },
